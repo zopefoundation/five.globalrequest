@@ -13,3 +13,6 @@ __pycache__
 *.pyc
 *.pyo
 *.so
+.eggs
+.tox
+src/five.globalrequest.egg-info
