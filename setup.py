@@ -25,6 +25,5 @@ setup(
     install_requires=[
         'setuptools',
         'zope.globalrequest',
-        'Zope2',
     ],
 )
