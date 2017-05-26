@@ -1,10 +1,10 @@
 Changelog
 =========
 
-1.1 - (unreleased)
-------------------
+99.0 - (unreleased)
+-------------------
 
-- Support Python 3.
+- Mark as deprecated.
 
 1.0 - 2010-08-06
 ----------------
