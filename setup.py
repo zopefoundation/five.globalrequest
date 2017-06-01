@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='five.globalrequest',
-    version='99.0',
+    version='99.1.dev0',
     description="DEPRECATED: Zope integration for zope.globalrequest",
     long_description=(open("README.rst").read() + "\n" +
                       open("CHANGES.rst").read()),
