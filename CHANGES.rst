@@ -1,11 +1,10 @@
 Changelog
 =========
 
-99.1 (unreleased)
+99.1 (2017-06-08)
 -----------------
 
-- Nothing changed yet.
-
+- Fixed wrong dependency in install requires.
 
 99.0 (2017-06-01)
 -----------------
