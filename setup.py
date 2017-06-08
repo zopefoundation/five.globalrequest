@@ -23,6 +23,6 @@ setup(
     zip_safe=False,
     install_requires=[
         'setuptools',
-        'Zope >= 4.0a3',
+        'Zope2 >= 4.0a3',
     ],
 )
